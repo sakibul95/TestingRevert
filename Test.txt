@@ -1,2 +1,3 @@
 ->Initial Commit
 -> checkout stg commit 1
+-> checkout stg commit 2
